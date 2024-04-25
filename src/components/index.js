@@ -1,0 +1,5 @@
+export { default as Header } from "./Header.vue"
+export { default as CustomButton } from "./CustomButton.vue"
+export { default as CustomSection } from "./CustomSection.vue"
+export { default as Tasks } from "./Tasks.vue"
+export { default as Task } from "./Task.vue"
